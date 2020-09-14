@@ -1,5 +1,5 @@
 # flipDashboard
-osam(Open sorce for army)
+
 # Flip dashboard(플립 대시보드)
 
 
